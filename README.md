@@ -37,7 +37,7 @@ If an incorrect city name is entered, the app displays an **"Invalid Input"** me
 
 ## 🔗 Live Demo
 
-> 👉 [Click here to view the project live](https://urbimangal.github.io/weather-app/
+> 👉 [Click here to view the project live](https://urbimangal.github.io/weather-app/)
 
 ---
 
